@@ -1,4 +1,4 @@
-package com.example.testfirebase;
+package com.example.testfirebase.Bai1;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
@@ -11,8 +11,7 @@ import android.widget.EditText;
 import android.widget.ProgressBar;
 import android.widget.Toast;
 
-import com.example.testfirebase.Bai1.LoginActivity;
-import com.example.testfirebase.Bai1.SignupActivity;
+import com.example.testfirebase.R;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
 import com.google.firebase.auth.FirebaseAuth;
